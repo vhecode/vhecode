@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://vhecode.com/sitemap.xml
+
+# Bloquear archivos innecesarios
+Disallow: /js/
+Disallow: /css/
+Disallow: /*.json$
