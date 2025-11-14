@@ -2,9 +2,9 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://vhecode.com/sitemap.xml
+Sitemap: https://vhecode.cl/sitemap.xml
 
-# Bloquear archivos innecesarios
+# Performance optimization - block unnecessary resources
 Disallow: /js/
 Disallow: /css/
 Disallow: /*.json$
